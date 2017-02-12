@@ -2,7 +2,7 @@
 Based on JC2MP's TimeChange - https://github.com/Jasonmrc/TimeChange
 
 
-Adds clientside events when seconds and minutes pass.  Great do for doing things every second, minute, etc.
+Adds clientside events when seconds and minutes pass.  Great for doing things every second, minute, etc.
 
 Usage:
 
