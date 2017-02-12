@@ -1,0 +1,1 @@
+const ui = new WebUIWindow('timechange', 'package://timechange/ui/index.html', new Vector2(1,1));
